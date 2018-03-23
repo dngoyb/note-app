@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ngoy Banza",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "parse": "^1.11.1",
+    "stringfy": "0.0.12",
+    "yargs": "^11.0.0"
+  }
+}
